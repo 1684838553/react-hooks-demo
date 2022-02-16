@@ -1,5 +1,5 @@
 import React, { useContext, createContext, useState } from 'react'
-import './useContext.css'
+import './style.css'
 
 const Context = createContext({ num: 0, age: 0 })
 

@@ -1,0 +1,9 @@
+.btn-click {
+    cursor: pointer;
+}
+
+.add-background {
+    margin: 16px;
+    padding: 16px;
+    background-color: #ededed;
+}

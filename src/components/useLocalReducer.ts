@@ -1,3 +1,6 @@
+// 自定义hooks
+// useLocalReducer 省去每个文件都需创建一次store
+
 import React, { useReducer, useState } from 'react'
 import './style.css'
 
